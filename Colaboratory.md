@@ -17,3 +17,4 @@ En la parte superior de la página podemos escoger la opción "+Texto", esto nos
 Al lado de "+Texto" esta la opción "+Código", al hacer click allí podremos empezar a programar nosotros mismos o crear un código con inteligencia artificial. 
 
 Ejemplos sencillos de código:
+<img width="800" height="600" alt="Captura de pantalla 2026-03-12 120534" src=https://github.com/anagodoyy85/modulo_1/blob/main/migooglecolab.png/>
