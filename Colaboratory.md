@@ -19,4 +19,4 @@ En la parte superior de la página podemos escoger la opción "+Texto", esto nos
 Al lado de "+Texto" esta la opción "+Código", al hacer click allí podremos empezar a programar nosotros mismos o crear un código con inteligencia artificial. 
 
 Ejemplos sencillos de código:
-<img width="800" height="600" alt="Captura de pantalla 2026-03-12 120534" src= link de git de la foto >
+<img width="800" height="600" alt="Captura de pantalla 2026-03-12 120534" src= [link de git de la foto](https://github.com/ValentinoGiampietri/Modulo_1/blob/main/WhatsApp%20Image%202026-04-02%20at%2011.33.01%20(1).jpeg) >
